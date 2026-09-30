@@ -1,0 +1,6 @@
+{
+  "name": "GovVoucher Tracker",
+  "description": "Government voucher route slip tracking system with real-time usage monitoring, expiration alerts, checklist compliance, and role-based reporting dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
